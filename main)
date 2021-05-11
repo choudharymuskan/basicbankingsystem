@@ -1,0 +1,11 @@
+Unstaged changes after reset:
+M	client/package-lock.json
+M	client/src/App.css
+M	client/src/components/Footer.js
+M	client/src/components/Home.js
+M	client/src/components/Modal.js
+M	client/src/images/bank.jpg
+M	client/src/images/creditCard.jpg
+M	models/customer.js
+M	package-lock.json
+M	server.js
